@@ -1,13 +1,7 @@
 # Directories
 .vs/
-bin/
-bin-int/
+cmake-build-debug
+cmake-build-release
 
 # Files
-*.vcxproj
-*.vcxproj.user
-*.vcxproj.filters
-*.sln
-
-# Exclude
-!vendor/bin
+/.idea/.name
